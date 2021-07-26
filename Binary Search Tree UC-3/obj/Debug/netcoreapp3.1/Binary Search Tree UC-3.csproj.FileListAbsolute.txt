@@ -1,0 +1,13 @@
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\bin\Debug\netcoreapp3.1\Binary Search Tree UC-3.exe
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\bin\Debug\netcoreapp3.1\Binary Search Tree UC-3.deps.json
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\bin\Debug\netcoreapp3.1\Binary Search Tree UC-3.runtimeconfig.json
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\bin\Debug\netcoreapp3.1\Binary Search Tree UC-3.runtimeconfig.dev.json
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\bin\Debug\netcoreapp3.1\Binary Search Tree UC-3.dll
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\bin\Debug\netcoreapp3.1\Binary Search Tree UC-3.pdb
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\obj\Debug\netcoreapp3.1\Binary Search Tree UC-3.csproj.AssemblyReference.cache
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\obj\Debug\netcoreapp3.1\Binary Search Tree UC-3.AssemblyInfoInputs.cache
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\obj\Debug\netcoreapp3.1\Binary Search Tree UC-3.AssemblyInfo.cs
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\obj\Debug\netcoreapp3.1\Binary Search Tree UC-3.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\obj\Debug\netcoreapp3.1\Binary Search Tree UC-3.dll
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\obj\Debug\netcoreapp3.1\Binary Search Tree UC-3.pdb
+C:\Users\kisho\Binary Search Tree\Binary Search Tree UC-3\obj\Debug\netcoreapp3.1\Binary Search Tree UC-3.genruntimeconfig.cache
