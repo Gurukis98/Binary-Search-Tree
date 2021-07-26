@@ -86,7 +86,7 @@ namespace Binary_Search_Tree_UC_1
             tree.Insert(30);
             tree.Insert(70);
             
-            tree.DisplayTree();
+            tree.DisplayTree() ;
         }
     }
 }
