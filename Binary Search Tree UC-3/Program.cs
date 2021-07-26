@@ -106,7 +106,7 @@ namespace Binary_Search_Tree_UC_2
             }
             else
             {
-                Console.WriteLine("\nThe Value 63 is Not Inserted");
+                Console.WriteLine("\nThe Value 63 is Not Inserted ");
             }
         }
     }
